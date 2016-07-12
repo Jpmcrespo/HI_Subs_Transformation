@@ -30,10 +30,12 @@ def check_didas(line):
     if any((c in parenthesis)for c in line):
         while line[i] not in "([" and i< len(line)-1:
             i+=1
-        e=i
+        e=i-1
         while line[e] not in ")]" and e< len(line)-1:
             e+=1
         e+=1
+        if i==e:
+            return ""
     return line[:i] + line[e:]
 
         

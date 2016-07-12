@@ -2477,7 +2477,7 @@ Pass it on.
 
 564
 00:29:17,923 --> 00:29:19,957
-as cadets pass message)
+
 565
 00:29:24,997 --> 00:29:27,231
             
@@ -2842,7 +2842,7 @@ everyone out safely.
 
 650
 00:33:39,817 --> 00:33:41,083
-      over monitor speakers)
+ 
 651
 00:33:41,086 --> 00:33:42,085
          And the team?
@@ -2857,7 +2857,7 @@ everyone out safely.
 
 654
 00:33:46,792 --> 00:33:49,426
-                 blows thudding)
+         
 655
 00:33:49,428 --> 00:33:51,695
         I think that's personal.
