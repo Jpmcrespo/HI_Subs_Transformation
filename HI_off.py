@@ -11,7 +11,7 @@ def apaga_tudo(In, Out):
             Out.write(line)
         else:
             new_line=check_names(line)
-            new_line=check_didas(new_line)
+            new_line=check_caption(new_line)
             if new_line!="\n":    
                 Out.write(new_line)
 
@@ -23,7 +23,7 @@ def check_names(line):
         i+=1
     return line[i:]
 
-def check_didas(line):
+def check_caption(line):
     i=0
     e=0
     parenthesis= set("()[]")
